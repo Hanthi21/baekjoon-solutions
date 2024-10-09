@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class selectionSort {
+public class BK23881 {
 
 	public static void main(String[] args) throws IOException {
 		
